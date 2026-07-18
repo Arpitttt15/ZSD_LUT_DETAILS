@@ -1,0 +1,9 @@
+CLASS zbp_i_lut_details DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_lut_details.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_I_LUT_DETAILS IMPLEMENTATION.
+ENDCLASS.
